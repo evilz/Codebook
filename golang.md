@@ -11,7 +11,7 @@ import (
 )
 ```
 
-**Hello World**
+## Hello World
 
 Our first program will print the classic “hello world” message. Here’s the full source code.
 It use the `fmt`package and function `Println`.
@@ -24,7 +24,7 @@ func main() {
 hello world
 ```
 
-**Values**
+## Values
 
 Go has various value types including strings, integers, floats, booleans, etc.
 
@@ -57,7 +57,7 @@ true
 false
 ```
 
-**Variables**
+## Variables
 
 In Go, variables are explicitly declared and used by the compiler to e.g. check type-correctness of function calls.
 
@@ -96,7 +96,7 @@ true
 apple
 ```
 
-**Constants**
+## Constants
 
 Go supports constants of character, string, boolean, and numeric values.
 
@@ -132,7 +132,7 @@ constant
 -0.28470407323754404
 ```
 
-**For**
+## For
 
 `for` is Go’s only looping construct. Here are some basic types of `for` loops.
 
