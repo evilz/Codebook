@@ -1,7 +1,13 @@
+---
+theme: sky
+highlightTheme: a11y-dark
+---
 
-# Go by Example
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/512px-Go_Logo_Blue.svg.png?20191207190041)
 
+---
 
+## Import some built-in package
 ```go
 // some import
 import (
@@ -10,6 +16,9 @@ import (
     "os"
 )
 ```
+
+---
+
 
 ## Hello World
 
@@ -24,17 +33,12 @@ func main() {
 hello world
 ```
 
+---
+
 ## Values
 
 Go has various value types including strings, integers, floats, booleans, etc.
 
-Here are a few basic examples.
-
-Strings, which can be added together with +.
-
-Integers and floats.
-
-Booleans, with boolean operators as you’d expect.
 ```go
 func main() {
 
@@ -56,6 +60,8 @@ false
 true
 false
 ```
+
+---
 
 ## Variables
 
