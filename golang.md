@@ -22,7 +22,7 @@ import (
 ## Hello World
 
 Our first program will print the classic “hello world” message. Here’s the full source code.
-It use the `fmt`package and function `Println`.
+It uses the `fmt` package and function `Println`.
 ```go
 fmt.Println("hello world")
 ```
